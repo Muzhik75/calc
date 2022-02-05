@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>345</width>
-    <height>240</height>
+    <width>472</width>
+    <height>285</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -184,7 +184,7 @@
        <item>
         <widget class="QPushButton" name="pb_00">
          <property name="text">
-          <string>00</string>
+          <string>CLR</string>
          </property>
         </widget>
        </item>
